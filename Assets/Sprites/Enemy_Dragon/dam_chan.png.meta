@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 98e40407934da5f41a94f95edc14d3dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dam_chan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25151735e35529647ad8716520068338
+      internalID: -627646011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_1
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0590584e8bbb4181c70fea9231288
+      internalID: -1933496795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_2
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee6d905177d114caf11b520cd53cbb
+      internalID: -2112743789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_3
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e02b9ac9e795148aef6eb7706ff4b2
+      internalID: -958855659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_4
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b60862ca9d27c429e85382d46b612c
+      internalID: 647364734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_5
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1823034c847245aa4a3621ac9e618
+      internalID: -1007712499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_6
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f839cfef39359445b45ccf8da229470
+      internalID: 146484084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28265a20c4d4843bf93fe063966910
+      internalID: 1615465334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_8
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23469447ba847429f2bb2ae18ac86b
+      internalID: -1515406970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_9
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d93ee25151d03489de1f08630e4f1c
+      internalID: 2106900632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_10
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226cecbce0e854847862c82707f102de
+      internalID: 1544934071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_11
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb703e1a2406e44db78b23f9fc485c2
+      internalID: 1827029851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_12
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ec2095aa714348af75b5cd63747e6
+      internalID: 2010854757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_13
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e140d5b163b34f94acc9c25d5dc4f
+      internalID: 96613855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714c1d1837a6bc42a8707c197fd4ef6
+      internalID: -631635714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_15
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b17d879b635d44a03fcd97ebab498
+      internalID: -678651213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_16
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14f9e6974bc4e84d9b4d841fdc66363
+      internalID: 632277589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_17
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b18669467e19499db20dc7bc4f267
+      internalID: 1742451119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_18
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07afc4848ab1b9846889e6fdae712f7f
+      internalID: 1642243148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_19
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bca0177dec121344a102dd2512221f9
+      internalID: -1617654996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_20
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45b0d38bd66f744afd267f70642b1d
+      internalID: 1608906476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3189f32dbf351a34c8cbf0f4cff28a76
+      internalID: 485396908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_22
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf627787ddcc842b8a429630a2dd1a
+      internalID: -1237599087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_23
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c256c957da8a0c4fb154e460bb0c143
+      internalID: 251547572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_24
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16123aa19870b4fb52570ae69b7a07
+      internalID: 776148503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_25
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37cfc3b9dc1394e9e9bfca2c044aa4
+      internalID: 1277623203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_26
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d5d80decaff94881219fc2969ff63
+      internalID: -684009858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_27
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3906fe4fca86e4abd96767204e226d
+      internalID: -972339357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2e042576d2c942849c7dac822496d
+      internalID: 1292441577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_29
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5543236f9ae89f949880747fb9bcae18
+      internalID: 729460806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_30
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cd2dcac0bb374db1b8cf99f39f0c1
+      internalID: 1659391582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_31
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a73262e23c964ea8875e8f9109855
+      internalID: -1465853262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_32
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee93a40a578f7749b67543c77ffb57d
+      internalID: -1086856270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_33
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebcc161aa746f41906104a8daa13a7
+      internalID: -236017302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_34
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb99d5f51563b9847a15026f2f8d6531
+      internalID: 1834321742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751a51897a645040a4894b767a41336
+      internalID: -122653709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_36
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9593c8d1fac127b449492f101b9d8ea6
+      internalID: 575458319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_37
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081d03d1a5c3d34a88ac0bb5cbca752
+      internalID: -1848926676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_38
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3697cf484558041aa2f9061c2ff2e5
+      internalID: 1287811171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_39
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920a54fa9dd4ed48a8a7fd0cab9af3f
+      internalID: -1427390957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_40
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e21a4bb550e148a3a59a84e40bf8a
+      internalID: -51484215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_41
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb0beb7e911d854bb36f81873743822
+      internalID: 923815476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a053efa5c0de0842a513930adedfb5a
+      internalID: 1665015667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_43
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4687ac43ff977da47badedc978a60830
+      internalID: -1551869825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_44
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466bd45c4c1d5914c8635452b6bcedba
+      internalID: 1431755783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_45
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86267dd8d813de542bd5303a85f7f199
+      internalID: -1714750897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_46
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6831789c243db428c191aebb6c6de7
+      internalID: -298186311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dam_chan_47
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e25e3b468dcf574893cfd842c699c0b
+      internalID: 218159055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dam_chan_0: -627646011
+      dam_chan_1: -1933496795
+      dam_chan_10: 1544934071
+      dam_chan_11: 1827029851
+      dam_chan_12: 2010854757
+      dam_chan_13: 96613855
+      dam_chan_14: -631635714
+      dam_chan_15: -678651213
+      dam_chan_16: 632277589
+      dam_chan_17: 1742451119
+      dam_chan_18: 1642243148
+      dam_chan_19: -1617654996
+      dam_chan_2: -2112743789
+      dam_chan_20: 1608906476
+      dam_chan_21: 485396908
+      dam_chan_22: -1237599087
+      dam_chan_23: 251547572
+      dam_chan_24: 776148503
+      dam_chan_25: 1277623203
+      dam_chan_26: -684009858
+      dam_chan_27: -972339357
+      dam_chan_28: 1292441577
+      dam_chan_29: 729460806
+      dam_chan_3: -958855659
+      dam_chan_30: 1659391582
+      dam_chan_31: -1465853262
+      dam_chan_32: -1086856270
+      dam_chan_33: -236017302
+      dam_chan_34: 1834321742
+      dam_chan_35: -122653709
+      dam_chan_36: 575458319
+      dam_chan_37: -1848926676
+      dam_chan_38: 1287811171
+      dam_chan_39: -1427390957
+      dam_chan_4: 647364734
+      dam_chan_40: -51484215
+      dam_chan_41: 923815476
+      dam_chan_42: 1665015667
+      dam_chan_43: -1551869825
+      dam_chan_44: 1431755783
+      dam_chan_45: -1714750897
+      dam_chan_46: -298186311
+      dam_chan_47: 218159055
+      dam_chan_5: -1007712499
+      dam_chan_6: 146484084
+      dam_chan_7: 1615465334
+      dam_chan_8: -1515406970
+      dam_chan_9: 2106900632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

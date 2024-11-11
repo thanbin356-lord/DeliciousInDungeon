@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: dcca9e850ea3db0438afd1bebe043393
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: khe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03131021c2390c44ab9b2205feb8b688
+      internalID: 1824725745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_1
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848b6d1abb6b4448a6ded66f6c13c40
+      internalID: -958219169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_2
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24590b455e95523408303a6f2066fea1
+      internalID: -917469035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_3
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e10c81d289b214ab0ea4aa9ace1066
+      internalID: -726744423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_4
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c13209a0164e4c9cef675fe379c98
+      internalID: -2073940454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_5
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3062a8792e6a4fb758c1f95d629ee
+      internalID: -1807895832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_6
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 3906.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12054ce8d5e8b84cb24a4a2b71868f7
+      internalID: -2106388288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24c5d9b2607c7428f8440528da1541
+      internalID: 430976560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_8
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf0a51672627947948d3c706d7d0e7
+      internalID: -1610849047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_9
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770934b58652c64c9dbbe930ce5c392
+      internalID: -706594605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_10
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f254660c242644ba7bfd8c255f5eb
+      internalID: -280905944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_11
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32459449513664caba0132e8c21a0e
+      internalID: 168707631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_12
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06385f6d7c1b7cd429db05181c972c7d
+      internalID: 1791912340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_13
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 3255.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb77f975c47c8419818999bad6fb82
+      internalID: 1841450216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da61292701df04c813a34e8d8d8071
+      internalID: -1137271601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_15
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc274354e92ca4986f98037badfbe1
+      internalID: -737490839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_16
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b38ca440ef54d4e8511a684365eec2
+      internalID: 689267633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_17
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943689ae7f24304fa6d39e7d9dca1d8
+      internalID: 1129795250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_18
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11802cff5549746b6300b821522dee
+      internalID: 346120239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_19
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d39b22d8ea0846b7480a6fef7da16
+      internalID: 143267292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_20
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 2604.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f88b30792175e4fa29919fcd6687af
+      internalID: -1484514313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b9caa197ffc04fabc9f9ff01f5207
+      internalID: 1002710939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_22
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e69b92956123d4486feaed74c8c5c3
+      internalID: 533057669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_23
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299e0c045a8a69e47a7cd7d6053db12e
+      internalID: -1340103164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_24
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf5789e42563249b12c18c351f5a88
+      internalID: 687051177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_25
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1386a5cf4c4d64ab0cf676242b2411
+      internalID: -1796100924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_26
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db9b1a3f10d7445a126b328d5f215d
+      internalID: -1646493157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_27
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 1953.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc4bd6ca653e94db2475b5ae316ea5
+      internalID: 401008223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51b13403cdad746970a4596e1920ce
+      internalID: -2047383062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_29
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e1088b9f57c24cb9c81bf502ee61b
+      internalID: -134058097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_30
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af1154e7ad2a9b429acf7c22cc86207
+      internalID: 1179079679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_31
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c547d935105d5944aa5f6d4773fc551
+      internalID: -1482363453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_32
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3611452abf23bac48b31ed71ad2ec11f
+      internalID: 258709438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_33
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f812dd3b8885244a8614a592085c52
+      internalID: 98869065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_34
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 1302.8572
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f8ee734a9ea14c9b37747140222f0
+      internalID: 1168468929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70acc254d82084d498713c9a3a615f29
+      internalID: 1295048648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_36
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa414c7678f6941b34d110be31b0cc
+      internalID: 940519754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_37
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8513f5ec78bb340a500c9188eb2597
+      internalID: -1091986530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_38
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ebbc10d78e12448e380362a4899a5
+      internalID: 1046992817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_39
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ebde9ba4ed3f94eaf1ed9874b46de0
+      internalID: 1434311538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_40
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0988562dd8a9b54a802400d9acf0e5b
+      internalID: -1865166155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_41
+      rect:
+        serializedVersion: 2
+        x: 7458
+        y: 651.8571
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21412e5d55cdf6644864f16f650abc28
+      internalID: -192319331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6bfad00bfcca54e8dba6c381b5e731
+      internalID: -1649542327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_43
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23128b0bb44e5d498652720b4d51cf2
+      internalID: -2055088565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_44
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5e6858267aad4886f849f0c4ebfff
+      internalID: -1672449299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: khe_45
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 0.8571167
+        width: 1243.1428
+        height: 651.1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede318667c26124fbbe5cb3cc378f33
+      internalID: -821725175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      khe_0: 1824725745
+      khe_1: -958219169
+      khe_10: -280905944
+      khe_11: 168707631
+      khe_12: 1791912340
+      khe_13: 1841450216
+      khe_14: -1137271601
+      khe_15: -737490839
+      khe_16: 689267633
+      khe_17: 1129795250
+      khe_18: 346120239
+      khe_19: 143267292
+      khe_2: -917469035
+      khe_20: -1484514313
+      khe_21: 1002710939
+      khe_22: 533057669
+      khe_23: -1340103164
+      khe_24: 687051177
+      khe_25: -1796100924
+      khe_26: -1646493157
+      khe_27: 401008223
+      khe_28: -2047383062
+      khe_29: -134058097
+      khe_3: -726744423
+      khe_30: 1179079679
+      khe_31: -1482363453
+      khe_32: 258709438
+      khe_33: 98869065
+      khe_34: 1168468929
+      khe_35: 1295048648
+      khe_36: 940519754
+      khe_37: -1091986530
+      khe_38: 1046992817
+      khe_39: 1434311538
+      khe_4: -2073940454
+      khe_40: -1865166155
+      khe_41: -192319331
+      khe_42: -1649542327
+      khe_43: -2055088565
+      khe_44: -1672449299
+      khe_45: -821725175
+      khe_5: -1807895832
+      khe_6: -2106388288
+      khe_7: 430976560
+      khe_8: -1610849047
+      khe_9: -706594605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

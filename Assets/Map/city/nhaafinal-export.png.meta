@@ -1,0 +1,5394 @@
+fileFormatVersion: 2
+guid: 42392532822ce7b4e842762987b1456e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nhaafinal-export_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f338920667b394381a5243fed8bb30
+      internalID: 1447553529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaedff3c9f4df244b8b8e0a07ee2edc
+      internalID: 1971083012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a702931195a46249872433111fb9f3d
+      internalID: 1606513790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8177a6b11847844e8eef4b8deaad46f
+      internalID: 1167682588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ec44fa60ebcf4e9baf71749facb70
+      internalID: -1754013818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba19382965b214d9e22cdffe262cf3
+      internalID: 825405599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac3de09ed8ba744b0b348417640786
+      internalID: -1271149877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb2925ee2a7404d99d59809b653008
+      internalID: -409994393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8cc6d2f95fcc2438bf21e9062080b0
+      internalID: 1167878957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1033
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e542dca001aa5914f9a985be7deabaf8
+      internalID: 1489274394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bafeaa15dd4fb418945717cbb476bd
+      internalID: -1026196061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80294e0081813468b2dfdfa7785e72
+      internalID: 1803950313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e36912e7e0744c8ef939fcbe49747
+      internalID: -605593650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b75827dbfa8324da3bfa1a06620cd2
+      internalID: -1737830339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09bb7e17343bc45a72bb71eebf6aa5
+      internalID: 610726991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a568bf264b5b0c4ebedce90b4e4d2a1
+      internalID: 2046262645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff07e07ace46649b0e6f151aada617
+      internalID: -828090870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae9e2cfb2292048b264983de0a3e14
+      internalID: 1031869578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254efc63cbffde4cadd452d8b3c7dd4
+      internalID: 1558327201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49b697d030d0248ab522842479b3c1
+      internalID: 1933637889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 985
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d15fe6a9ed644cbb8b9fec122975d
+      internalID: 73330266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3d971c6056884ab5ead99fc6a1a09
+      internalID: -320826926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621933fe39083c478311ef682e4e37f
+      internalID: -121425586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2783121a5bd9704bb37d44122701cca
+      internalID: 925986277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85352b8c9aaa8254198d0eebda182056
+      internalID: -2107898959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2051dbece29240b10501b7d30ba73
+      internalID: -1082444423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1352d30085d70664ebd0d40c504e2cb7
+      internalID: -671738794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83778b1ae6b7d045a67ab385db1a44f
+      internalID: -801524059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec088aaabafb8a4ea28315ac9a942b6
+      internalID: 1324540988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073470bfaec3d2c489d29962fafa9ed0
+      internalID: -611083731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79c4e7ac5140c94fadd20c8dc76d157
+      internalID: 1325606981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 937
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ec16402220e54f8aa467a905637e9
+      internalID: 1375289275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4557ef5dbce653242a4ebdc7d8ba6887
+      internalID: -2030629920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4deb4ef4304489468debd8cceed1ffa
+      internalID: -1524413376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b958725ed11354499724b8ac470d3eb
+      internalID: 1746201167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9fe7c0e668cff438683054c2c03063
+      internalID: -212866488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6892db9d28df45b5d4962ec480671
+      internalID: 1842616233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ee30d313f594449040149fc526453
+      internalID: 1770554685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316add00f770e943be947955604ba5f
+      internalID: 142499423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ceee71c511ec429e2e16ca0e41793
+      internalID: -1182946472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a679e621ddcc4b9316f8f3b211fcd
+      internalID: 187302131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035a6b55186584468e552faf5048e12
+      internalID: 331012007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1afa1ca9978eab448b76e0adb3bdabc
+      internalID: -2070574698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70e1f15f0425b4aab03eba03de9ae5
+      internalID: -258154984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_44
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 889
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5436f9353492343b9c9a516f4f3cd1
+      internalID: 1559225801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abaea6085d7b9249ba30f6b1128a7c6
+      internalID: -2103316551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998e0be839e1991438cae829814b6953
+      internalID: -582493663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143633140e1eedb468562ecc574428b3
+      internalID: 1335161078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aba78a2b9eafe4ea3b3b786c7b9f19
+      internalID: 932578417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83859701ebfb0064f97f8756894cbd11
+      internalID: -1734440219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14825933704178d4faee783095c23f32
+      internalID: 835620560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de845583b9755b942b6f8d5875e7370c
+      internalID: -331763921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0568f780dec2fcd43bcd050830d3f018
+      internalID: 2090594785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6672d86cf69dc45b321152fcfedb95
+      internalID: 615816013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ec30906f4d9b469206bbf1fbfe00d
+      internalID: 210700088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b19e679a839b14b8cd264751073bcd
+      internalID: 1447901047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c49a651233b2e42a88af614ed80da5
+      internalID: -995816083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_57
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 841
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b02db165bce3940b6a709a12e35b64
+      internalID: 543544232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebeff1848bdc6646971a9f57e20183c
+      internalID: -172784085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495eb763dbc05db4690f0bbf9abb74f5
+      internalID: 1889280382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae31d2c287fa2e46a67c7c465526add
+      internalID: -476963048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc9beb5921139428eeccbc203041ca
+      internalID: 1482385187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a97a88184d5834392cd01489b9e4fb
+      internalID: -1086470628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e52e0b0a7e7044b835d6e529e48762
+      internalID: -1843204397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8458a31bee9a44dbcf14883d80eaa8
+      internalID: -223401355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09b128aa8a0384cb00fd1d1fa12f13
+      internalID: -23594879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867bf6de523a2cb4ca9732a108898153
+      internalID: 220776545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa9bf294d5d15e429c043485278816d
+      internalID: -2069085693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43255b8424bb11f4fb1a7d5c2440817a
+      internalID: -1739133409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f924b2d844a292c419acc5ec22a56a63
+      internalID: 340094608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_70
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 793
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b911e86977f11478a1c771d6bb6135
+      internalID: 177685305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3718e4b74c17149a1cc31aae13fef7
+      internalID: -1937923818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32def219cbf22024da5cd2193e9eea50
+      internalID: 2004638601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756e910daa7d8149a52abc616b2a62f
+      internalID: -556710010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56502fa0dd8a04ab17e6663c16df3f
+      internalID: -1781367436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e50ab10fec88a046a9bb9fed0f07728
+      internalID: -50536248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68d65e36ba7c04197fe0d804f33517
+      internalID: 74759112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_77
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa38f58a82d9f4483a5ee9484b8c94
+      internalID: -2143349731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ffbdddd245f44289e859ea0eedd52
+      internalID: -1894357219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_79
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73177706a6b9ad40bc30d1f1c242940
+      internalID: -542371727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94dc3cc4559994bb4b7b1e89e09882
+      internalID: 1593418814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf6786a4d5e9a45a35af0471788151
+      internalID: 660056434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_82
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a33f9c61b58f84ba97105454d623e6
+      internalID: 572284537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_83
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 745
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2db7a1c4c73714b9f261d159fb3677
+      internalID: 1969296958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05c2fbf98de2b94cb1bd684b0c30267
+      internalID: -36461849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddcc02be6840e34bb1a69d413c55c37
+      internalID: -2069226830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df358c1fd1586a429b7561f78437fe8
+      internalID: -133488619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbff44f84ee50d4a91ea8a3ee734cb7
+      internalID: 1847122973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f40209a4058e42bcd3c1e1bfadb5b
+      internalID: 1232673204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044924f1187e1e4b92a7cd11597e212
+      internalID: -1803468106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_90
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd1aa6fd5c65414e81c0d085805ba9d
+      internalID: -755913257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0baa0bfe7e0c3439e7696815b5ba55
+      internalID: -533456337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_92
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7884f2ce537ef42b38f83757bb451a
+      internalID: 760881206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15838a36803d99e4cbb5626f4e1d856a
+      internalID: 1439888301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 697
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1892f46908db24a81b66811c98efe6
+      internalID: -336783797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270621fd453b9ea42a0b3c4f5ba23bf5
+      internalID: -464834335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6154ffb4e5e8450469fc4a745e4e7052
+      internalID: 993736251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e00387fb769c648874060b4e07f9df
+      internalID: -1375246535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c84bf832091ba42b5d2c78c7ac2102
+      internalID: -1663124593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705b9be9a7b79c48b1d96ea7799e84e
+      internalID: -97838995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199917485b498bd4bb9f17bfac3c38c2
+      internalID: -509251555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc99eb7a430cef459621fb5f3de5e58
+      internalID: 156169821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_102
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027704810e2fc934d824ad4d41934149
+      internalID: 906110461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a3904997135c449814e08d48bad658
+      internalID: -1588316105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_104
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ed36408421de4bb82a1a84578ae44
+      internalID: -2014748472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_105
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 649
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a40c5482a95b048836934474d0fd53
+      internalID: -203435297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f693c207e1839469bab38664b96a06
+      internalID: 124589408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b96e58babf0444b6231ef2d0d8b08
+      internalID: -2018635746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bd92fc113db2d408afe02dc3f1644e
+      internalID: -1860731207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0dbae85371c241b03974d43b3d21b
+      internalID: -45532783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed5b536cb44154f9097a1c473dbcd3
+      internalID: -93609532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e60f08f4cb304b819656c85d54731
+      internalID: 457278069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc3bd3798c53247aa9f70be7cd7d80
+      internalID: -771511172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f077e7553c894a446931deb7ee2fd6a9
+      internalID: 1482400752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f2cd835518d346b9b8c6a6a7d1a25
+      internalID: -1464973271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_115
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1ae35e2a601a4389ffa47fcaff6a3
+      internalID: -1123089480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d6c89c53826244e8cc7fdc5e1f351f
+      internalID: -326092595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_117
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685944609ae048f43868dfc0cc0efd05
+      internalID: -773092076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268e613df538f340b98299edd1f1e12
+      internalID: -60544655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_119
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e1971f85d15c94e864b9b7c58286c1
+      internalID: -1403250568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_120
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b670ee285cf9a742bef958ca3251876
+      internalID: 4987848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_121
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546a7d20de7372498abf415bf3ac3a6
+      internalID: -1228056970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_122
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355da39a3ff9044f9976fc03f5a0402
+      internalID: 1222506147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792ba98764b90dc4a9d64baa543e7fd5
+      internalID: 330789810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_124
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a11acda78ebb44bdaebcea7b87e5c
+      internalID: 402265488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_125
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09ad439c21e9442adfda06ed9ca0b0
+      internalID: -1011353625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_126
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5279b3f6582639547b4230c5b0f16c41
+      internalID: -1429415348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_127
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4622ab4fea572478fadd11a2cfde23
+      internalID: 772261639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_128
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 601
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674ed88f62e0faa46933d874be59f4c5
+      internalID: -1950158211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25bcec58874a1f4ea0a17b39768ad08
+      internalID: -101558860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c971e082f846648bf37a562f880ae7
+      internalID: -1424530272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc88d587e0c006448387ba316e414ac
+      internalID: 1032413286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef20b0b0db5ea647923cd32d50a6ed6
+      internalID: -951271144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78f570694d47b42b45688381fa7662
+      internalID: 906772352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5304ae8806c62a24883508ac036ddebf
+      internalID: -626637151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7adc46ececa4429106efeb10f7361
+      internalID: 696006425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc900764ca9058649befb318aae31a6a
+      internalID: 1740578802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac22ba28b8e634e8d35f67a40b515f
+      internalID: -1977368847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_138
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4987310e3be684a9b200816b4cc1e0
+      internalID: 1976234233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_139
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77562b3ffe5fb4340bf94532e66d868e
+      internalID: -1383665606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_140
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e58d18326009404aad1456312702247
+      internalID: 1150171596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f701b890899e41ba2fa28def01687
+      internalID: -1200755688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_142
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364de6ae65bbd5e4cb52d8797f101c27
+      internalID: 1389978970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_143
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ede3abbd681d499a30facfe5d842d
+      internalID: -753608980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_144
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75646af4761443846ac33129ad1003f7
+      internalID: -172114008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_145
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf6babb0936ce942b03f4005f4fc757
+      internalID: -1223307157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_146
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab003a014fbfa644b95f6ede70f08f9c
+      internalID: 1589702102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_147
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaffb3155b20d340a143a4595f5cd95
+      internalID: 2088505715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_148
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd328da7d91d76499c62d9717f86f41
+      internalID: 1628550509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_149
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672a6f9d0a3b7742aae41c2c14972b8
+      internalID: 1720846299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_150
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b98b25285a534e944e2f5efb7640e
+      internalID: 1481496310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_151
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 553
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24859b31d17152c448fa2c5f3e176572
+      internalID: -406690960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e0a8aab410c44a82eb0a99395c5e4
+      internalID: 679076929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675481dabd5db544a9f51c55a57db257
+      internalID: -2125605275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5982655c98cb247b915be26f7069a6
+      internalID: -2048879501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_155
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0d42a6608d1a468b6c9b1f7a51389
+      internalID: 1170730555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb477c64f6409f4994baf84e87c4f42
+      internalID: -1679463566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_157
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4718834281664699841896d7ce2c7
+      internalID: -1549902124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ff4afeea09c8478022a11512c1688
+      internalID: 925481665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_159
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751734faa1631543b15279c76596b00
+      internalID: -910890044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_160
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7a2cf4e48d034bb3d5eff061c00b7
+      internalID: 1596522700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_161
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc797dd6247924b9d64c6e9377a14e
+      internalID: 1688033332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f83caa6763774c8046ca41b9bf76e
+      internalID: -1651354351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_163
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a7bb7afd6d0184d82b78d3aa3267fb
+      internalID: -253872330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_164
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6990444e9f54b4ba7742dedc8c90c4
+      internalID: 1753189083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_165
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8419533563c8f4a966455d724323a0
+      internalID: 1174129784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_166
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60444c96a4803478202b2007616e23
+      internalID: 202328775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_167
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b1e479a4ca5e4c97b916c7d57dad9
+      internalID: -1811460487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_168
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccbd108a8006948b4fac01bdf4bec1
+      internalID: 842477922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_169
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc26f52cfb5f074c9131d1153040ec8
+      internalID: -1467713311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_170
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a7b0bd875b2544197a70d8d26ff0c2
+      internalID: -1683495161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_171
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88175fd03380e1d4885bff628ac5eb05
+      internalID: 1477369347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_172
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0965922f5443a24b971e1a3bd7c5e92
+      internalID: -1263647916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_173
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45651a79622a90c478541ee88e681c50
+      internalID: -1467325647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_174
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 505
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11adf367e7206f44d8c091a64bc4574b
+      internalID: 1339553270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93420e0284afd40acbb65097dfaddf
+      internalID: -708919829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bab5d7946c0bf4eafc4c76b3d97ffe
+      internalID: 1262092547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08385248d746bda48ac9ea3815fd689d
+      internalID: 1342914028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c473767d703394da7ec932b2c27f6d
+      internalID: 1536328519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a736697149055194a8de3e5c7785b10c
+      internalID: 1341157859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6da04f8baf6374d99bc81088194ef0
+      internalID: -2129676716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad21e16eb6f6f246a7bf9709b73a295
+      internalID: -1213599359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_182
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d78e521f10a634880170b2c8587428
+      internalID: -1640169603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7ceae6a173f9b43b9b99b0f198660a
+      internalID: 660838703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_184
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08beb532684aa040929ab55150fe51c
+      internalID: -139214751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_185
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ab0e591acbba4c913b5e7188b5386
+      internalID: -1235944627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_186
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b13fb217e21dd4cb97597c0597cf20
+      internalID: 2011333523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_187
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39a1579b30e97469b4120a58dbb37a
+      internalID: 1935424690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a3ec759e4c9b459fea59fd71c4a79
+      internalID: 621719940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_189
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22bed20797e5464996be84610002c78
+      internalID: -1286888897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_190
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7352c9fba5bcc14980460bb76b0e31e
+      internalID: -110485651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_191
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23579ac7ab9b5148b8272be00eb0c4a
+      internalID: -1186853290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_192
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c283203dfe57424ba42b2ff928da1d3
+      internalID: 749217263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_193
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab912d26d278fe489cba24a2ceb4f5d
+      internalID: 1562898134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_194
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7b2a45a24664344a9ad3632d30549d
+      internalID: 1765363725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_195
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c43fae69c7ed45ac89e9c19199688
+      internalID: 1276931007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_196
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ba6565f32bc542be7ec78657530ba
+      internalID: 484613668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_197
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 457
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23663de7a3ec2a74bb85052d86248170
+      internalID: -1219888345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821ca0cabf9aa643a449c64b4c01fa9
+      internalID: 541485479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_199
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8800a541bb1e3c4b81137ac7a96abbf
+      internalID: 1927021806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ebaf2524d2f244699bd34ed0c7830a
+      internalID: 1165048585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a12552933221654589c505c301fbb12
+      internalID: -1383390240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a731ca040e4134ca29d47efad3b2b8
+      internalID: -362662271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a937244c982164bb370718aff54ae7
+      internalID: 294835409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb602a95c6fe74b82ccdcf1c5a9bfb
+      internalID: -629853007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_205
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be5ca314052ee429b239d732b2356d
+      internalID: -377895086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_206
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3892998e3d446439d266908341f928
+      internalID: 94738711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_207
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b623d22b454734a8b6f30b5ca602bf
+      internalID: -1477114834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_208
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb963be5bc6ec41b9d1c320b995a28
+      internalID: -995041878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_209
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e4696eb1c6b046beee7eae3a2ba38
+      internalID: 130271166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_210
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b3dab794b4374da63304b87a6ccd9
+      internalID: -977968191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_211
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5edb4d0e0d16146a25c748c7c2db4f
+      internalID: -1474982357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_212
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c8f19328abe9345b19827e300a3f49
+      internalID: -7203163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_213
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e408c5adbf18244e94d76ce50014ee2
+      internalID: -2124981453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_214
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c55e8e01bdaf694abc0594c708d73ef
+      internalID: -855140333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_215
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a391032852e994eadb23437eafb9b4
+      internalID: 589840288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_216
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd8a266274f2004091e81f4094f1e9b
+      internalID: -853556626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_217
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb5dd8b17c77c478f096e905b0fba6
+      internalID: 151484813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_218
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b0bf253dff3904d8ced4d3bb011cf8
+      internalID: 2087376156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_219
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f63716c7f8e2f4ba87dcecb8fee758
+      internalID: 548239623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_220
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2da0fff5267efc4b899b4e82da6b72f
+      internalID: 1324363300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_221
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9faa5ff3dac542bd1dfa4efbbe381
+      internalID: 773205640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941528f96e45d241b816c3166b30d38
+      internalID: -274262413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6f3092f6abd6d40a16e6f54666ae9e
+      internalID: 2051306433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_224
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebe084f6976164e85df030c426c7f9
+      internalID: 1581023587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db13296e81162438748deb4e253878
+      internalID: -433719094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_226
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afcb06dcf2bf5f44833368dd96f8994
+      internalID: -1141393458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_227
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6cf37e2877d9c4cba82ecb0c0e7803
+      internalID: -867275543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_228
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9a7d66e61ced498f7d49cbe935456
+      internalID: 1896227326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a7cc38e4eb244f9bd9b717b14495e
+      internalID: -1801265278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_230
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b485253453c4bb4db5ab6cc6805a83e
+      internalID: -814076103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_231
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8e0bf1ddcc404381bd7d43a1ff2ab
+      internalID: -1980410448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_232
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed69eff965228c4cbcf3fd481843797
+      internalID: 238697274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_233
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a776eed2d1d153f4ab7feaaf1f3937b7
+      internalID: -867466252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_234
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8331c3a622fa44985a78c27d4e16ef
+      internalID: -1237010113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_235
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb330a71a8540a439688c2fd69dc1fc
+      internalID: 389446489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_236
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e9930acbeb6d4cb6e3adddfe2a16d
+      internalID: -1959091539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_237
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f07992b296d4ee45b2c6c9b9fa7b7ae
+      internalID: 1764476787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_238
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad010227e3dfb50428b8a173dc8a90bd
+      internalID: 673561195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nhaafinal-export_239
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 361
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd2d2fe9a51c14783e397d6aefba2b
+      internalID: 581536490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nhaafinal-export_0: 1447553529
+      nhaafinal-export_1: 1971083012
+      nhaafinal-export_10: -1026196061
+      nhaafinal-export_100: -509251555
+      nhaafinal-export_101: 156169821
+      nhaafinal-export_102: 906110461
+      nhaafinal-export_103: -1588316105
+      nhaafinal-export_104: -2014748472
+      nhaafinal-export_105: -203435297
+      nhaafinal-export_106: 124589408
+      nhaafinal-export_107: -2018635746
+      nhaafinal-export_108: -1860731207
+      nhaafinal-export_109: -45532783
+      nhaafinal-export_11: 1803950313
+      nhaafinal-export_110: -93609532
+      nhaafinal-export_111: 457278069
+      nhaafinal-export_112: -771511172
+      nhaafinal-export_113: 1482400752
+      nhaafinal-export_114: -1464973271
+      nhaafinal-export_115: -1123089480
+      nhaafinal-export_116: -326092595
+      nhaafinal-export_117: -773092076
+      nhaafinal-export_118: -60544655
+      nhaafinal-export_119: -1403250568
+      nhaafinal-export_12: -605593650
+      nhaafinal-export_120: 4987848
+      nhaafinal-export_121: -1228056970
+      nhaafinal-export_122: 1222506147
+      nhaafinal-export_123: 330789810
+      nhaafinal-export_124: 402265488
+      nhaafinal-export_125: -1011353625
+      nhaafinal-export_126: -1429415348
+      nhaafinal-export_127: 772261639
+      nhaafinal-export_128: -1950158211
+      nhaafinal-export_129: -101558860
+      nhaafinal-export_13: -1737830339
+      nhaafinal-export_130: -1424530272
+      nhaafinal-export_131: 1032413286
+      nhaafinal-export_132: -951271144
+      nhaafinal-export_133: 906772352
+      nhaafinal-export_134: -626637151
+      nhaafinal-export_135: 696006425
+      nhaafinal-export_136: 1740578802
+      nhaafinal-export_137: -1977368847
+      nhaafinal-export_138: 1976234233
+      nhaafinal-export_139: -1383665606
+      nhaafinal-export_14: 610726991
+      nhaafinal-export_140: 1150171596
+      nhaafinal-export_141: -1200755688
+      nhaafinal-export_142: 1389978970
+      nhaafinal-export_143: -753608980
+      nhaafinal-export_144: -172114008
+      nhaafinal-export_145: -1223307157
+      nhaafinal-export_146: 1589702102
+      nhaafinal-export_147: 2088505715
+      nhaafinal-export_148: 1628550509
+      nhaafinal-export_149: 1720846299
+      nhaafinal-export_15: 2046262645
+      nhaafinal-export_150: 1481496310
+      nhaafinal-export_151: -406690960
+      nhaafinal-export_152: 679076929
+      nhaafinal-export_153: -2125605275
+      nhaafinal-export_154: -2048879501
+      nhaafinal-export_155: 1170730555
+      nhaafinal-export_156: -1679463566
+      nhaafinal-export_157: -1549902124
+      nhaafinal-export_158: 925481665
+      nhaafinal-export_159: -910890044
+      nhaafinal-export_16: -828090870
+      nhaafinal-export_160: 1596522700
+      nhaafinal-export_161: 1688033332
+      nhaafinal-export_162: -1651354351
+      nhaafinal-export_163: -253872330
+      nhaafinal-export_164: 1753189083
+      nhaafinal-export_165: 1174129784
+      nhaafinal-export_166: 202328775
+      nhaafinal-export_167: -1811460487
+      nhaafinal-export_168: 842477922
+      nhaafinal-export_169: -1467713311
+      nhaafinal-export_17: 1031869578
+      nhaafinal-export_170: -1683495161
+      nhaafinal-export_171: 1477369347
+      nhaafinal-export_172: -1263647916
+      nhaafinal-export_173: -1467325647
+      nhaafinal-export_174: 1339553270
+      nhaafinal-export_175: -708919829
+      nhaafinal-export_176: 1262092547
+      nhaafinal-export_177: 1342914028
+      nhaafinal-export_178: 1536328519
+      nhaafinal-export_179: 1341157859
+      nhaafinal-export_18: 1558327201
+      nhaafinal-export_180: -2129676716
+      nhaafinal-export_181: -1213599359
+      nhaafinal-export_182: -1640169603
+      nhaafinal-export_183: 660838703
+      nhaafinal-export_184: -139214751
+      nhaafinal-export_185: -1235944627
+      nhaafinal-export_186: 2011333523
+      nhaafinal-export_187: 1935424690
+      nhaafinal-export_188: 621719940
+      nhaafinal-export_189: -1286888897
+      nhaafinal-export_19: 1933637889
+      nhaafinal-export_190: -110485651
+      nhaafinal-export_191: -1186853290
+      nhaafinal-export_192: 749217263
+      nhaafinal-export_193: 1562898134
+      nhaafinal-export_194: 1765363725
+      nhaafinal-export_195: 1276931007
+      nhaafinal-export_196: 484613668
+      nhaafinal-export_197: -1219888345
+      nhaafinal-export_198: 541485479
+      nhaafinal-export_199: 1927021806
+      nhaafinal-export_2: 1606513790
+      nhaafinal-export_20: 73330266
+      nhaafinal-export_200: 1165048585
+      nhaafinal-export_201: -1383390240
+      nhaafinal-export_202: -362662271
+      nhaafinal-export_203: 294835409
+      nhaafinal-export_204: -629853007
+      nhaafinal-export_205: -377895086
+      nhaafinal-export_206: 94738711
+      nhaafinal-export_207: -1477114834
+      nhaafinal-export_208: -995041878
+      nhaafinal-export_209: 130271166
+      nhaafinal-export_21: -320826926
+      nhaafinal-export_210: -977968191
+      nhaafinal-export_211: -1474982357
+      nhaafinal-export_212: -7203163
+      nhaafinal-export_213: -2124981453
+      nhaafinal-export_214: -855140333
+      nhaafinal-export_215: 589840288
+      nhaafinal-export_216: -853556626
+      nhaafinal-export_217: 151484813
+      nhaafinal-export_218: 2087376156
+      nhaafinal-export_219: 548239623
+      nhaafinal-export_22: -121425586
+      nhaafinal-export_220: 1324363300
+      nhaafinal-export_221: 773205640
+      nhaafinal-export_222: -274262413
+      nhaafinal-export_223: 2051306433
+      nhaafinal-export_224: 1581023587
+      nhaafinal-export_225: -433719094
+      nhaafinal-export_226: -1141393458
+      nhaafinal-export_227: -867275543
+      nhaafinal-export_228: 1896227326
+      nhaafinal-export_229: -1801265278
+      nhaafinal-export_23: 925986277
+      nhaafinal-export_230: -814076103
+      nhaafinal-export_231: -1980410448
+      nhaafinal-export_232: 238697274
+      nhaafinal-export_233: -867466252
+      nhaafinal-export_234: -1237010113
+      nhaafinal-export_235: 389446489
+      nhaafinal-export_236: -1959091539
+      nhaafinal-export_237: 1764476787
+      nhaafinal-export_238: 673561195
+      nhaafinal-export_239: 581536490
+      nhaafinal-export_24: -2107898959
+      nhaafinal-export_25: -1082444423
+      nhaafinal-export_26: -671738794
+      nhaafinal-export_27: -801524059
+      nhaafinal-export_28: 1324540988
+      nhaafinal-export_29: -611083731
+      nhaafinal-export_3: 1167682588
+      nhaafinal-export_30: 1325606981
+      nhaafinal-export_31: 1375289275
+      nhaafinal-export_32: -2030629920
+      nhaafinal-export_33: -1524413376
+      nhaafinal-export_34: 1746201167
+      nhaafinal-export_35: -212866488
+      nhaafinal-export_36: 1842616233
+      nhaafinal-export_37: 1770554685
+      nhaafinal-export_38: 142499423
+      nhaafinal-export_39: -1182946472
+      nhaafinal-export_4: -1754013818
+      nhaafinal-export_40: 187302131
+      nhaafinal-export_41: 331012007
+      nhaafinal-export_42: -2070574698
+      nhaafinal-export_43: -258154984
+      nhaafinal-export_44: 1559225801
+      nhaafinal-export_45: -2103316551
+      nhaafinal-export_46: -582493663
+      nhaafinal-export_47: 1335161078
+      nhaafinal-export_48: 932578417
+      nhaafinal-export_49: -1734440219
+      nhaafinal-export_5: 825405599
+      nhaafinal-export_50: 835620560
+      nhaafinal-export_51: -331763921
+      nhaafinal-export_52: 2090594785
+      nhaafinal-export_53: 615816013
+      nhaafinal-export_54: 210700088
+      nhaafinal-export_55: 1447901047
+      nhaafinal-export_56: -995816083
+      nhaafinal-export_57: 543544232
+      nhaafinal-export_58: -172784085
+      nhaafinal-export_59: 1889280382
+      nhaafinal-export_6: -1271149877
+      nhaafinal-export_60: -476963048
+      nhaafinal-export_61: 1482385187
+      nhaafinal-export_62: -1086470628
+      nhaafinal-export_63: -1843204397
+      nhaafinal-export_64: -223401355
+      nhaafinal-export_65: -23594879
+      nhaafinal-export_66: 220776545
+      nhaafinal-export_67: -2069085693
+      nhaafinal-export_68: -1739133409
+      nhaafinal-export_69: 340094608
+      nhaafinal-export_7: -409994393
+      nhaafinal-export_70: 177685305
+      nhaafinal-export_71: -1937923818
+      nhaafinal-export_72: 2004638601
+      nhaafinal-export_73: -556710010
+      nhaafinal-export_74: -1781367436
+      nhaafinal-export_75: -50536248
+      nhaafinal-export_76: 74759112
+      nhaafinal-export_77: -2143349731
+      nhaafinal-export_78: -1894357219
+      nhaafinal-export_79: -542371727
+      nhaafinal-export_8: 1167878957
+      nhaafinal-export_80: 1593418814
+      nhaafinal-export_81: 660056434
+      nhaafinal-export_82: 572284537
+      nhaafinal-export_83: 1969296958
+      nhaafinal-export_84: -36461849
+      nhaafinal-export_85: -2069226830
+      nhaafinal-export_86: -133488619
+      nhaafinal-export_87: 1847122973
+      nhaafinal-export_88: 1232673204
+      nhaafinal-export_89: -1803468106
+      nhaafinal-export_9: 1489274394
+      nhaafinal-export_90: -755913257
+      nhaafinal-export_91: -533456337
+      nhaafinal-export_92: 760881206
+      nhaafinal-export_93: 1439888301
+      nhaafinal-export_94: -336783797
+      nhaafinal-export_95: -464834335
+      nhaafinal-export_96: 993736251
+      nhaafinal-export_97: -1375246535
+      nhaafinal-export_98: -1663124593
+      nhaafinal-export_99: -97838995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
