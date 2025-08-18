@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using UnityEngine.Tilemaps;
+using Unity.Cinemachine;
 
 public class IgnoreConfinerCollision : MonoBehaviour
 {
-    public Cinemachine.CinemachineConfiner cinemachineConfiner;
+    public Unity.Cinemachine.CinemachineConfiner cinemachineConfiner;
 
     void Start()
     {

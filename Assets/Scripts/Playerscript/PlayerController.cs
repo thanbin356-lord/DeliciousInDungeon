@@ -149,11 +149,11 @@ public class PlayerController : Singleton<PlayerController>
 
         while (Time.time < startTime + dashDuration)
         {
-            rb.velocity = movementInput.normalized * dashSpeed;
+            rb.linearVelocity = movementInput.normalized * dashSpeed;
             yield return null;
         }
 
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
         Physics2D.IgnoreLayerCollision(LayerMask.NameToLayer("PlayerLayer"), LayerMask.NameToLayer("EnemyLayer"), false);
         isDashing = false;
         canMove = true;

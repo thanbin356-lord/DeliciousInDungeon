@@ -246,7 +246,7 @@ public class Demon_Slime : MonoBehaviour, IDamageable
 
         yield return new WaitForSeconds(knockbackDuration);
 
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
         isKnockedBack = false;
     }
 

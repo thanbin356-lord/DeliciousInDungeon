@@ -56,11 +56,11 @@ public class Demon_Slime_Attack2 : MonoBehaviour
 
         while (Time.time < startTime + duration)
         {
-            rb.velocity = direction * force;
+            rb.linearVelocity = direction * force;
             yield return null;
         }
 
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
     }
 
     public void StopAttack()

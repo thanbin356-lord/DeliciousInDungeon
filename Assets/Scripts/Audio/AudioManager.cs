@@ -16,31 +16,53 @@ public class AudioManager : MonoBehaviour
     public AudioClip Dragon_Stomp;
     public AudioClip Slime_BM;
     public AudioClip Demon_BM;
+    public static AudioManager Instance;
+    void Awake()
+    {
+
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject); 
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
+
     void Start()
     {
-        musicSource = GetComponent<AudioSource>();
-        SFXSource = GetComponent<AudioSource>();
         PlayNormalBackgroundMusic();
     }
 
     public void PlayNormalBackgroundMusic()
     {
-        musicSource.clip = background;
-        musicSource.loop = true;
-        musicSource.Play();
+        if (musicSource)
+        {
+            musicSource.clip = background;
+            musicSource.loop = true;
+            musicSource.Play();
+        }
     }
 
     public void PlayEnemyBackgroundMusic()
     {
-        musicSource.clip = enemyBackgroundMusic;
-        musicSource.loop = true;
-        musicSource.Play();
+        if (musicSource)
+        {
+            musicSource.clip = enemyBackgroundMusic;
+            musicSource.loop = true;
+            musicSource.Play();
+        }
     }
+
     public void StopMusic()
     {
-        musicSource.Stop();
+        if (musicSource) musicSource.Stop();
     }
-    internal void PlaySFX(AudioClip clip)
+
+    public void PlaySFX(AudioClip clip)
     {
         if (SFXSource && clip)
         {

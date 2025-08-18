@@ -43,6 +43,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -171,6 +172,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -305,12 +307,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSource: {fileID: 5236850979019482611}
   SFXSource: {fileID: 4481726164114088828}
-  enemyBackgroundMusic: {fileID: 0}
+  enemyBackgroundMusic: {fileID: 8300000, guid: 5f93fadcb9c9ffb448a8293de80f6ee6, type: 3}
   background: {fileID: 8300000, guid: 6671813ce22d84f41a293c1192a96164, type: 3}
   Dragon_Fire: {fileID: 8300000, guid: 2e5245e3934c1324583b102668cffd66, type: 3}
   Dragon_Stomp: {fileID: 8300000, guid: 767178900be37d646906e72c89e24c38, type: 3}
   Slime_BM: {fileID: 0}
-  Demon_BM: {fileID: 0}
+  Demon_BM: {fileID: 8300000, guid: 5f93fadcb9c9ffb448a8293de80f6ee6, type: 3}
 --- !u!82 &2154699404107383246
 AudioSource:
   m_ObjectHideFlags: 0
@@ -322,6 +324,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
