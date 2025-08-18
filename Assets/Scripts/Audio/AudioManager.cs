@@ -1,29 +1,30 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
-    [Header("------Audio Sorce------")]
-    [SerializeField] AudioSource musicSource;
-    [SerializeField] AudioSource SFXSource;
+    [Header("------Audio Source------")]
+    [SerializeField] private AudioSource musicSource;
+    [SerializeField] private AudioSource SFXSource;
 
-    [Header("------Audio ------")]
+    [Header("------Audio Clips------")]
     public AudioClip enemyBackgroundMusic;
     public AudioClip background;
     public AudioClip Dragon_Fire;
     public AudioClip Dragon_Stomp;
     public AudioClip Slime_BM;
     public AudioClip Demon_BM;
+
     public static AudioManager Instance;
+
+    private AudioClip currentMusicClip; // nhớ bài nhạc hiện tại
+
     void Awake()
     {
-
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); 
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -34,32 +35,28 @@ public class AudioManager : MonoBehaviour
 
     void Start()
     {
-        PlayNormalBackgroundMusic();
+        PlayMusic(background);
     }
 
-    public void PlayNormalBackgroundMusic()
+    public void PlayMusic(AudioClip clip)
     {
-        if (musicSource)
-        {
-            musicSource.clip = background;
-            musicSource.loop = true;
-            musicSource.Play();
-        }
-    }
+        if (clip == null) return;
 
-    public void PlayEnemyBackgroundMusic()
-    {
-        if (musicSource)
-        {
-            musicSource.clip = enemyBackgroundMusic;
-            musicSource.loop = true;
-            musicSource.Play();
-        }
+        if (clip == currentMusicClip) return;
+
+        currentMusicClip = clip;
+        musicSource.clip = clip;
+        musicSource.loop = true;
+        musicSource.Play();
     }
 
     public void StopMusic()
     {
-        if (musicSource) musicSource.Stop();
+        if (musicSource)
+        {
+            musicSource.Stop();
+            currentMusicClip = null;
+        }
     }
 
     public void PlaySFX(AudioClip clip)
@@ -68,5 +65,15 @@ public class AudioManager : MonoBehaviour
         {
             SFXSource.PlayOneShot(clip);
         }
+    }
+
+    public void PlayNormalBackgroundMusic()
+    {
+        PlayMusic(background);
+    }
+
+    public void PlayEnemyBackgroundMusic()
+    {
+        PlayMusic(enemyBackgroundMusic);
     }
 }

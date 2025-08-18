@@ -15,6 +15,7 @@ public class EnemyMS : MonoBehaviour
     {
         if (audioManager != null)
         {
+            audioManager.StopMusic();
             audioManager.PlayEnemyBackgroundMusic();
         }
     }
