@@ -7,6 +7,7 @@ public class GameOver : MonoBehaviour
     [SerializeField] private GameObject gameOverScreen; // Panel Game Over (kéo thả vào Inspector)
     [SerializeField] private float delayBeforeDisplay = 1f; // Trễ trước khi hiện panel
     [SerializeField] private GameObject objectToDestroy;
+    
 
     public void ShowGameOverScreen()
     {
@@ -22,9 +23,12 @@ public class GameOver : MonoBehaviour
     }
     public void MainMenu()
     {
-        if (objectToDestroy != null)
+        foreach (GameObject obj in Resources.FindObjectsOfTypeAll<GameObject>())
         {
-            Destroy(objectToDestroy);
+            if (obj.hideFlags == HideFlags.None && obj.scene.IsValid())
+            {
+                Destroy(obj);
+            }
         }
         SceneManager.LoadScene("Main Menu");
     }

@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class EndGame : MonoBehaviour
 {
-     public PlayableDirector timeline; // Reference to your Timeline asset    
+    public PlayableDirector timeline; // Reference to your Timeline asset    
     void OnEnable()
     {
         timeline.stopped += OnTimelineStopped;
@@ -21,6 +21,13 @@ public class EndGame : MonoBehaviour
     {
         if (aDirector == timeline)
         {
+            foreach (GameObject obj in Resources.FindObjectsOfTypeAll<GameObject>())
+            {
+                if (obj.hideFlags == HideFlags.None && obj.scene.IsValid())
+                {
+                    Destroy(obj);
+                }
+            }
             SceneManager.LoadScene("Main Menu");
         }
     }

@@ -52673,6 +52673,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8935453649823611156, guid: f7320a80b24650248823b6a90216c06f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -144876,6 +144880,10 @@ PrefabInstance:
     - target: {fileID: 384651294182795357, guid: 66b1eaebee5726149b92f38523700aa5, type: 3}
       propertyPath: dashSpeed
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 527163900464223056, guid: 66b1eaebee5726149b92f38523700aa5, type: 3}
+      propertyPath: maxHealth
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 527163900464223056, guid: 66b1eaebee5726149b92f38523700aa5, type: 3}
       propertyPath: gameOverManager

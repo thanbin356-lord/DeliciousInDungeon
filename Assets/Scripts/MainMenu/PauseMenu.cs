@@ -37,9 +37,12 @@ public class PauseMenu : MonoBehaviour
     public void LoadMenu()
     {
         Time.timeScale = 1f;
-        if (objectToDestroy != null)
+        foreach (GameObject obj in Resources.FindObjectsOfTypeAll<GameObject>())
         {
-            Destroy(objectToDestroy);
+            if (obj.hideFlags == HideFlags.None && obj.scene.IsValid())
+            {
+                Destroy(obj);
+            }
         }
         SceneManager.LoadScene("Main Menu");
     }

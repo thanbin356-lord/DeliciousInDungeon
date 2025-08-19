@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 public class PlayerHealth : MonoBehaviour, IDamageable
@@ -95,6 +96,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         animator.SetTrigger("Defeated");
         gameObject.layer = LayerMask.NameToLayer("Default");
         playerController.DisableInput();
+        GetComponent<Collider2D>().enabled = false;
         if (gameOverScenes.Contains(SceneManager.GetActiveScene().name))
         {
             gameOverManager.ShowGameOverScreen();
